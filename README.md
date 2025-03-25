@@ -1,6 +1,6 @@
 # MIU-Seminar-2025-03-Homework2
 # Requirements
-* Create a Custom VPC (10.0.0.0/24)
+* Create a Custom VPC (10.0.0.0/22)
 * Set up Two Subnets:
 - Public (10.0.1.0/28)
 - Private (10.0.2.0/28)
